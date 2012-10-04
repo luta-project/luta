@@ -7,6 +7,7 @@ gem 'rails', '3.2.8'
 
 gem 'pg'
 gem 'rspec'
+gem 'rspec-rails'
 gem 'unicorn'
 
 
